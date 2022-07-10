@@ -4,19 +4,11 @@ Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dataset and AV-Mixup Consiste
 <p align="center">
   <img width="800" src="view_diagram/structure main.png">
 </p>
-### Chords statistics
-<p align="center">
-  <img width="400" src="view_diagram/Chord type scale diagram.jpg">
-</p>
+
 ### Models results
 <p align="center">
   <img width="800" src="results.png">
 </p>
-
-### Setup the environment
-
-We work with a conda environment.
-python >= 3.6   music21
 
 ### Total
 
