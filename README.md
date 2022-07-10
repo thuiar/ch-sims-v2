@@ -12,7 +12,7 @@ Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dataset and AV-Mixup Consiste
 
 ### Data split
 <p align="center">
-  <img width="800" src="Diagram/DataSplit.png">
+  <img width="400" src="Diagram/DataSplit.png">
 </p>
 
 ### Data Download
