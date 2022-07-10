@@ -2,17 +2,17 @@
 Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dataset and AV-Mixup Consistent Module
 ### Illustration of the constructed CH-SIMS v2.0 data
 <p align="center">
-  <img width="800" src="CH-SIMS-v2.0/Diagram/CH-SIMSv2.0.png">
+  <img width="800" src="Diagram/CH-SIMSv2.0.png">
 </p>
 
 ### Models results
 <p align="center">
-  <img width="800" src="CH-SIMS-v2.0/Diagram/ModelResults.png">
+  <img width="800" src="Diagram/ModelResults.png">
 </p>
 
 ### Data split
 <p align="center">
-  <img width="800" src="CH-SIMS-v2.0/Diagram/DataSplit.png">
+  <img width="800" src="Diagram/DataSplit.png">
 </p>
 
 ### Data Download
