@@ -17,7 +17,6 @@ MODEL_MAP = {
     # multi-task
     'v1': V1,
     'v1_semi': V1_Semi,
-	'v2_semi': V2_Semi,
 }
 
 class AMIO(nn.Module):

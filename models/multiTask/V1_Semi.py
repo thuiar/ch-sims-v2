@@ -128,10 +128,10 @@ class V1_Semi(nn.Module):
         self.post_fusion_layer_2 = nn.Linear(self.post_fusion_dim, self.post_fusion_dim)
         self.post_fusion_layer_3 = nn.Linear(self.post_fusion_dim, 1)
 
-                # rec
-        # self.t_rec = Reconsitution(args, self.post_text_dim, self.text_in)
-        # self.a_rec = Reconsitution(args, self.post_audio_dim, self.audio_in)
-        # self.v_rec = Reconsitution(args, self.post_video_dim, self.video_in)
+        # rec
+        self.t_rec = Reconsitution(args, self.post_text_dim, self.text_in)
+        self.a_rec = Reconsitution(args, self.post_audio_dim, self.audio_in)
+        self.v_rec = Reconsitution(args, self.post_video_dim, self.video_in)
 
         self.output_range = Parameter(torch.FloatTensor([6]), requires_grad=False)
         self.output_shift = Parameter(torch.FloatTensor([-3]), requires_grad=False)

@@ -18,7 +18,6 @@ class ATIO():
             # multi-task
             'v1': V1,
             'v1_semi': V1_Semi,
-			'v2_semi': V2_Semi,
         }
     
     def getTrain(self, args):
