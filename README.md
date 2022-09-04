@@ -18,8 +18,14 @@ Official codes for paper "Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dat
 </p>
 
 ### Data Download
+1.The extracted modality features files:
+  1) Supervised standard pickle file --> Google Drive[https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing]
+  2) Unsupervised standard pickle file --> Google Drive[https://drive.google.com/drive/folders/1llIbm3gwyJRwwk58RUQHWBNKjHI9vGGB?usp=sharing]
 
-The raw data and the extracted modality features will be released soon...
+2. The raw video files:
+
+
+
 
 ### Data path
 
