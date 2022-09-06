@@ -12,23 +12,18 @@ Official codes for paper "Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dat
   <img width="800" src="show/ModelResults.png">
 </p>
 
-### Data split
-<p align="center">
-  <img width="400" src="show/DataSplit.png">
-</p>
-
 ### Data Download
 
 1.The extracted modality features files:
-  1) Supervised standard pickle file(ch-simsv2s.pkl) and meta file(meta(s).csv)
+  1) Supervised standard pickle file(ch-simsv2s.pkl) and meta file(lable.csv)
       [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
-  2) Unsupervised standard pickle file(ch-simsv2u.pkl) and meta file(meta(u).csv)
+  2) Unsupervised standard pickle file(ch-simsv2u.pkl) and meta file(lable.csv)
       [Google Drive](https://drive.google.com/drive/folders/1llIbm3gwyJRwwk58RUQHWBNKjHI9vGGB?usp=sharing)
 
 2. The raw video files:
   1) Supervised raw video file(ch-simsv2s.zip)
       [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
-  2) Unsupervised raw video file(ch-simsv2u.pkl)
+  2) Unsupervised raw video file(ch-simsv2u.zip)
       [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
 
 ### Data path
