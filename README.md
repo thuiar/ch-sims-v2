@@ -7,6 +7,8 @@ Official codes for paper "Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dat
   <img width="800" src="show/CH-SIMSv2.0.png">
 </p>
 
+### Dataset introduction(https://thuiar.github.io/sims.github.io/chsims)
+
 ### Official Baselines results
 <p align="center">
   <img width="800" src="show/ModelResults.png">
