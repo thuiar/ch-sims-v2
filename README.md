@@ -1,32 +1,28 @@
-# CH-SIMS-v2.0
+# CH-SIMS v2.0
 
 Official codes for paper "Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dataset and AV-Mixup Consistent Module" (ICMI 2022)
 
-### Illustration of the constructed CH-SIMS v2.0 data
+### [Dataset HomePage](https://thuiar.github.io/sims.github.io/chsims)
+
+### Illustration of CH-SIMS v2.0 Data
 <p align="center">
   <img width="800" src="show/CH-SIMSv2.0.png">
 </p>
 
-### Dataset introduction(https://thuiar.github.io/sims.github.io/chsims)
-
-### Official Baselines results
+### Official Baselines Results
 <p align="center">
   <img width="800" src="show/ModelResults.png">
 </p>
 
 ### Data Download
 
-1.The extracted modality features files:
-  1) Supervised standard pickle file(ch-simsv2s.pkl) and meta file(lable.csv)
-      [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
-  2) Unsupervised standard pickle file(ch-simsv2u.pkl) and meta file(lable.csv)
-      [Google Drive](https://drive.google.com/drive/folders/1llIbm3gwyJRwwk58RUQHWBNKjHI9vGGB?usp=sharing)
+1. CH-SIMS v2(s) - Supervised data:
+  - [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
+  - [Baiduyun Drive]()
 
-2. The raw video files:
-  1) Supervised raw video file(ch-simsv2s.zip)
-      [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
-  2) Unsupervised raw video file(ch-simsv2u.zip)
-      [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
+2. CH-SIMS v2(u) - Unsupervised data:
+  - [Google Drive](https://drive.google.com/drive/folders/1llIbm3gwyJRwwk58RUQHWBNKjHI9vGGB?usp=sharing)
+  - [Baiduyun Drive]()
 
 ### Data path
 
