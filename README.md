@@ -15,11 +15,11 @@ Official codes for paper "Make Acoustic and Visual Cues Matter: CH-SIMS v2.0 Dat
 
 1. CH-SIMS v2(s) - Supervised data:
   - [Google Drive](https://drive.google.com/drive/folders/1wFvGS0ebKRvT3q6Xolot-sDtCNfz7HRA?usp=sharing)
-  - [Baiduyun Drive]()
+  - [Baiduyun Drive](https://pan.baidu.com/s/13Ds2_XDIGUqMHt4lXNLQSQ) Code: icmi
 
 2. CH-SIMS v2(u) - Unsupervised data:
   - [Google Drive](https://drive.google.com/drive/folders/1llIbm3gwyJRwwk58RUQHWBNKjHI9vGGB?usp=sharing)
-  - [Baiduyun Drive]()
+  - [Baiduyun Drive](https://pan.baidu.com/s/1tezEDR3Y23hJ6Mp5fmcp-w) Code: icmi 
 
 ## 3. Baselines Results
 <p align="center">
